@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/9qhrw6u5xj9e6yd5?svg=true)](https://ci.appveyor.com/project/Ir-inka/selenium-web-interface-testing)
